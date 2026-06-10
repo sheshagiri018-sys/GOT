@@ -34,7 +34,7 @@ The aim was to create a **browser-based fantasy experience**.
 
 ---
 
-## ✨ Features
+## ✨ Features*
 
 * 🐉 Game of Thrones themed UI design
 * 🏰 House-based sections and storytelling flow
