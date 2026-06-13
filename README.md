@@ -6,7 +6,7 @@ This project is a creative frontend build designed purely for **entertainment, v
 
 ---
 
-## 🎯 Project Idea
+## 🎯 Project Idea!
 
 The goal of this project is to transform the **Game of Thrones universe into an interactive website experience**, focusing on:
 
@@ -20,7 +20,7 @@ It is built to feel more like a **mini web experience or interactive story** rat
 
 ---
 
-## 🎨 Design Inspiration
+## 🎨 Design Inspiration!
 
 Inspired by cinematic fantasy themes and modern interactive websites:
 
