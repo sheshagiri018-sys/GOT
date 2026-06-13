@@ -113,6 +113,10 @@ The heart of politics, betrayal, and power.
 | 🦑 Greyjoy | Kraken | We Do Not Sow |
 
 ---
+<p align="center"> ⚔️ Made with Passion for Game of Thrones Fans ⚔️ </p> <p align="center"> 🐉🔥 May Your House Stand Strong 🔥🐉 </p> ```
+<p align="center">
+  <img src="YOUR_BANNER_IMAGE_LINK" width="100%">
+</p>
 
 ## 🚀 Technologies Used
 
@@ -141,4 +145,4 @@ Or will you ride with the dragons? 🐉🔥
 
 ❄️ Winter Is Coming ❄️
 
-<p align="center"> ⚔️ Made with Passion for Game of Thrones Fans ⚔️ </p> <p align="center"> 🐉🔥 May Your House Stand Strong 🔥🐉 </p> ```
+
