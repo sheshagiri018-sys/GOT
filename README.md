@@ -12,7 +12,7 @@
 
 ---
 
-## 📖 About The Project
+## 📖 About The Project🪄
 
 Welcome, traveler! 🏰✨
 
@@ -51,14 +51,14 @@ Enjoy the adventure on desktops, tablets, and mobile devices.
 
 ## 🗺️ Journey Through Westeros
 
-### 🐺 The North
+### 🐺 The North👑
 The land of snow, loyalty, and honor.
 
 - Winterfell 🏰
 - The Wall ❄️
 - Beyond the Wall 🧊
 
-### 🦁 The Westerlands
+### 🦁 The Westerlands🌕
 The kingdom of gold and power.
 
 - Casterly Rock 🏔️
