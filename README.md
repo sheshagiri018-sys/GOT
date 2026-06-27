@@ -16,7 +16,7 @@
 
 Welcome, traveler! 🏰✨
 
-Step beyond the Wall and enter the breathtaking world of **Game of Thrones**, where honor clashes with ambition, dragons soar across the skies, and every throne comes at a price.
+Step beyond the Wall and enter the breathtaking world of **Game of Thrones**, where honor clashes with ambition, dragons soar across the skies, and every throne comes at a price.!!!
 
 This website is not just another fan page—it is a **storytelling experience** that takes visitors through the rich history, legendary characters, powerful houses, and unforgettable moments of Westeros.
 
