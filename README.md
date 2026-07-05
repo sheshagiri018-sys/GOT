@@ -92,7 +92,7 @@ The heart of politics, betrayal, and power.
 
 ---
 
-## 📸 Sneak Peek
+## 📸 Sneak Peek🎥🪐✨
 
 🔥 Enter the Seven Kingdoms  
 🐉 Fly with Dragons  
