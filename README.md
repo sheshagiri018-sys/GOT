@@ -130,11 +130,11 @@ The heart of politics, betrayal, and power.
 
 To create an engaging digital experience that allows fans and newcomers alike to:
 
-📚 Learn the lore of Westeros
-🏰 Explore legendary kingdoms
-🐉 Experience the age of dragons
-👑 Understand the struggle for the Iron Throne
-⚔️ Relive unforgettable moments
+📚 Learn the lore of Westeros.
+🏰 Explore legendary kingdoms.
+🐉 Experience the age of dragons.
+👑 Understand the struggle for the Iron Throne.
+⚔️ Relive unforgettable moments.
 🌠 The Story Never Ends...
 
 As winter approaches and dragons awaken, every path leads to a new adventure.
