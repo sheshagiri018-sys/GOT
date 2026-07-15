@@ -49,7 +49,7 @@ Enjoy the adventure on desktops, tablets, and mobile devices.
 
 ---
 
-## 🗺️ Journey Through Westeros
+## 🗺️ Journey Through Westeros.
 
 ### 🐺 The North👑
 The land of snow, loyalty, and honor.
