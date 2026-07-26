@@ -60,7 +60,7 @@ The land of snow, loyalty, and honor.
 
 ### 🦁 The Westerlands🌕
 The kingdom of gold and power.
-
+!!!
 - Casterly Rock 🏔️
 - House Lannister 💰
 
